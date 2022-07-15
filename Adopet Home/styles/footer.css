@@ -1,9 +1,0 @@
-.rodape {
-    background-color: var(--cor-verde);
-    padding: 2.8em;
-}
-
-.rodape__texto {
-    font-family: var(--fonte-secundaria);
-    color: #FFFFFF;
-}
