@@ -1,0 +1,14 @@
+.cabeçalho {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 3em 3em;
+}
+
+.cabeçalho__link {
+    text-decoration: none;
+}
+
+.cabeçalho__imagem {
+    margin-right: 3em;
+}

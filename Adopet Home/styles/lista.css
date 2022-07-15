@@ -1,0 +1,49 @@
+.carde {
+    display: flex;
+    background-color: var(--cor-cinza-claro-fundos);
+    margin-top: 2em;
+    margin-bottom: -1em;
+}
+
+.carde__imagem {
+    padding: 1em;
+}
+
+.carde__titulo {
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-azul);
+    font-weight: 600;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.carde__texto {
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-cinza);
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 1em;
+
+}
+
+.carde__texto-secundario {
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-cinza);
+    margin-top: 3em;
+    font-size: 12px;
+}
+
+.carde__link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 1em;
+}
+
+.carde__link-texto {
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-cinza);
+    font-size: 10px;
+    font-weight: 400;
+    margin-left: 1em;
+}

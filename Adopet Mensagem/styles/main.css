@@ -1,0 +1,9 @@
+.principal {
+    text-align: center;
+    margin: 5em 4em 0 4em;
+}
+
+.principal__texto {
+    font-family: var(--fonte-secundaria);
+    color: var(--cor-azul);
+}
