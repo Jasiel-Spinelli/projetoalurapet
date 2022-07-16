@@ -1,0 +1,15 @@
+.cabeçalho {
+    padding: 3em;
+}
+
+.cabeçalho__link {
+    margin-right: 3em;
+    text-decoration: none;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 6em;
+}
+
